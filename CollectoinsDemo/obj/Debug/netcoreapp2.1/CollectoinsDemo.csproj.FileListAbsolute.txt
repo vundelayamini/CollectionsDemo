@@ -1,0 +1,12 @@
+C:\Users\mahesh\source\repos\CollectoinsDemo\CollectoinsDemo\bin\Debug\netcoreapp2.1\CollectoinsDemo.deps.json
+C:\Users\mahesh\source\repos\CollectoinsDemo\CollectoinsDemo\bin\Debug\netcoreapp2.1\CollectoinsDemo.runtimeconfig.json
+C:\Users\mahesh\source\repos\CollectoinsDemo\CollectoinsDemo\bin\Debug\netcoreapp2.1\CollectoinsDemo.runtimeconfig.dev.json
+C:\Users\mahesh\source\repos\CollectoinsDemo\CollectoinsDemo\bin\Debug\netcoreapp2.1\CollectoinsDemo.dll
+C:\Users\mahesh\source\repos\CollectoinsDemo\CollectoinsDemo\bin\Debug\netcoreapp2.1\CollectoinsDemo.pdb
+C:\Users\mahesh\source\repos\CollectoinsDemo\CollectoinsDemo\obj\Debug\netcoreapp2.1\CollectoinsDemo.csprojAssemblyReference.cache
+C:\Users\mahesh\source\repos\CollectoinsDemo\CollectoinsDemo\obj\Debug\netcoreapp2.1\CollectoinsDemo.AssemblyInfoInputs.cache
+C:\Users\mahesh\source\repos\CollectoinsDemo\CollectoinsDemo\obj\Debug\netcoreapp2.1\CollectoinsDemo.AssemblyInfo.cs
+C:\Users\mahesh\source\repos\CollectoinsDemo\CollectoinsDemo\obj\Debug\netcoreapp2.1\CollectoinsDemo.csproj.CoreCompileInputs.cache
+C:\Users\mahesh\source\repos\CollectoinsDemo\CollectoinsDemo\obj\Debug\netcoreapp2.1\CollectoinsDemo.dll
+C:\Users\mahesh\source\repos\CollectoinsDemo\CollectoinsDemo\obj\Debug\netcoreapp2.1\CollectoinsDemo.pdb
+C:\Users\mahesh\source\repos\CollectoinsDemo\CollectoinsDemo\obj\Debug\netcoreapp2.1\CollectoinsDemo.genruntimeconfig.cache
