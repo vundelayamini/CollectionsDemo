@@ -5,7 +5,7 @@ namespace CollectoinsDemo
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args)//main method
         {
             Console.WriteLine("Welcome message to Collections demo");
              doStackDemo();
