@@ -5,21 +5,21 @@ namespace CollectoinsDemo
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args)//Main Method
         {
-            Console.WriteLine("Welcome message to Collections demo");
+            Console.WriteLine("Welcome message to Collections demo");//Welcome message
              doStackDemo();
-            doDictionaryDemo();
+             doDictionaryDemo();
              doQueueDemo();
              doSetDemo();
             Console.ReadKey();
         }
 
 
-        public static void doSetDemo()
+        public static void doSetDemo()// create Set demo
         {
             var set = new HashSet<string>();
-            set.Add("Ravi");
+            set.Add("Ravi");//Add method
             set.Add("Vijay");
             set.Add("Ravi");
             set.Add("Ajay");
@@ -29,7 +29,7 @@ namespace CollectoinsDemo
                 Console.WriteLine(enumerator.Current);
             }
         }
-        private static void doQueueDemo()
+        private static void doQueueDemo()// create a Queue Demo
         {
             //Creating a Queue
             Queue<string> queue = new Queue<string>();
@@ -58,7 +58,7 @@ namespace CollectoinsDemo
 
         }
 
-        private static void doDictionaryDemo()
+        private static void doDictionaryDemo()// create a Dictionay Demo
         {
             Console.WriteLine("\nIn doStackDemo");
             //create a dictionary elements
@@ -75,7 +75,7 @@ namespace CollectoinsDemo
                 Console.WriteLine("key=" + element.Key + "& value=" + element.Value);
             }
         }
-        private static void doStackDemo()
+        private static void doStackDemo()//Create a stack demo
         {
             Console.WriteLine("\nIn doStckDemo");
             //Creating Stack
@@ -92,7 +92,7 @@ namespace CollectoinsDemo
             }
             Console.WriteLine("poped element: " + pop);
         }
-        private static void doListDemo()
+        private static void doListDemo()//create a list 
         {
             Console.WriteLine("\nIn doListDemo");
             //Creating  List
